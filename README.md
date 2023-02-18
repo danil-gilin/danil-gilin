@@ -1,7 +1,7 @@
 <!-- Header -->
-<p align="center">
+<div align="center">
   <img style="cursor:default" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" height="200" width="200"/>
-</p>
+</div>
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Gilin Daniil 👋</h1>
 <p align="center">I'm a student learning Android Development and I love to code in Kotlin.</p>
