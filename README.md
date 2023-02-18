@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" height="200" width="200"/>
+  <img style="cursor:default" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" height="200" width="200"/>
 </p>
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Gilin Daniil 👋</h1>
