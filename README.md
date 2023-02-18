@@ -1,5 +1,5 @@
 <!-- Header -->
-<p style="&::after {content:"",position:absolute,top:0,left:0,bottom:0,right:0,width:100%,height:100%}" align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" height="200" width="200"/>
 </p>
 <!-- Introduction -->
