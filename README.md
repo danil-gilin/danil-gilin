@@ -6,11 +6,15 @@
 <h1 align="center">Hi, I'm Gilin Daniil 👋</h1>
 <p align="center">I'm a student learning Android Development and I love to code in Kotlin.</p>
 <!-- Icons -->
+<h3 align="center">Main stack</h3>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png"/>
+</p>
+<h3 align="center">Additional stack</h3>
+<p align="center">
+ <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
 </p>
